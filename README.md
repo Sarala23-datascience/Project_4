@@ -1,4 +1,4 @@
-# Online Retail Data Analysis
+# Analyzing Online Retail Sales Data 
 
 ## Overview
 
@@ -157,7 +157,7 @@ plt.close()
 
 ### 3. Customer Segmentation
 
-![Customer Segmentation](images/customer_segmentation.png)
+![Customer Segmentation](https://github.com/Sarala23-datascience/Project_4/blob/main/Customer%20Segmentation.png)
 
 
 ```
