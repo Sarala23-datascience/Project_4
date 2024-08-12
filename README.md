@@ -149,7 +149,7 @@ plt.close()
 
 ### 1. Monthly Sales Over Time
 
-![Monthly Sales Over Time](images/monthly_sales.png)
+![Monthly Sales Over Time](https://github.com/Sarala23-datascience/Project_4/blob/main/Monthly_Sales_Over_Time.png)
 
 ### 2. Top 10 Products by Sales
 
