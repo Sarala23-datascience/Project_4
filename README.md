@@ -153,7 +153,7 @@ plt.close()
 
 ### 2. Top 10 Products by Sales
 
-![Top 10 Products by Sales](images/top_products.png)
+![Top 10 Products by Sales](https://github.com/Sarala23-datascience/Project_4/blob/main/Top_10_Products_by_Sales.png)
 
 ### 3. Customer Segmentation
 
